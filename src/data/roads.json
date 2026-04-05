@@ -1,1 +1,334 @@
-[]
+[
+  {
+    "id": "richard-russell",
+    "name": "Richard Russell Scenic Highway",
+    "color": "#aa3bff",
+    "scores": {
+      "scenery": 10,
+      "twistiness": 8,
+      "emptiness": 9
+    },
+    "distance": "14 mi",
+    "driveTime": "35 min",
+    "elevationGain": "1,800 ft",
+    "description": "A winding ridgeline drive through the Blue Ridge with sweeping valley views and zero commercial development in sight.",
+    "coordinates": [
+      [
+        34.69368,
+        -83.77055
+      ],
+      [
+        34.70201,
+        -83.78045
+      ],
+      [
+        34.70498,
+        -83.78593
+      ],
+      [
+        34.71227,
+        -83.78852
+      ],
+      [
+        34.71972,
+        -83.8008
+      ],
+      [
+        34.72795,
+        -83.81382
+      ],
+      [
+        34.72599,
+        -83.82866
+      ],
+      [
+        34.72527,
+        -83.83903
+      ],
+      [
+        34.72918,
+        -83.84855
+      ],
+      [
+        34.74439,
+        -83.84519
+      ],
+      [
+        34.75378,
+        -83.85204
+      ],
+      [
+        34.76065,
+        -83.8648
+      ],
+      [
+        34.76666,
+        -83.87954
+      ],
+      [
+        34.77708,
+        -83.88016
+      ],
+      [
+        34.79507,
+        -83.87739
+      ]
+    ]
+  },
+  {
+    "id": "brasstown-bald",
+    "name": "Brasstown Bald Road",
+    "color": "#3bf5aa",
+    "scores": {
+      "scenery": 10,
+      "twistiness": 7,
+      "emptiness": 8
+    },
+    "distance": "2 mi",
+    "driveTime": "10 min",
+    "elevationGain": "1,100 ft",
+    "description": "The steep, switchback climb to Georgia's highest peak rewards with 360\u00b0 views across four states on clear days.",
+    "coordinates": [
+      [
+        34.87042,
+        -83.81007
+      ],
+      [
+        34.87062,
+        -83.80977
+      ],
+      [
+        34.87077,
+        -83.80931
+      ],
+      [
+        34.87117,
+        -83.80945
+      ],
+      [
+        34.87193,
+        -83.81056
+      ],
+      [
+        34.87241,
+        -83.81136
+      ],
+      [
+        34.87268,
+        -83.81198
+      ],
+      [
+        34.87307,
+        -83.81224
+      ],
+      [
+        34.87307,
+        -83.81153
+      ],
+      [
+        34.87327,
+        -83.81096
+      ],
+      [
+        34.87345,
+        -83.81053
+      ],
+      [
+        34.87362,
+        -83.81106
+      ],
+      [
+        34.87375,
+        -83.81144
+      ],
+      [
+        34.87396,
+        -83.8117
+      ],
+      [
+        34.87423,
+        -83.81132
+      ]
+    ]
+  },
+  {
+    "id": "unicoi-turnpike",
+    "name": "Unicoi Turnpike",
+    "color": "#f5aa3b",
+    "scores": {
+      "scenery": 7,
+      "twistiness": 6,
+      "emptiness": 9
+    },
+    "distance": "10 mi",
+    "driveTime": "25 min",
+    "elevationGain": "900 ft",
+    "description": "A historic Cherokee trading path turned quiet two-lane, threading deep hardwood forest and roadside mountain streams.",
+    "coordinates": [
+      [
+        34.71019,
+        -83.74138
+      ],
+      [
+        34.71178,
+        -83.74425
+      ],
+      [
+        34.73226,
+        -83.74908
+      ],
+      [
+        34.75654,
+        -83.74983
+      ],
+      [
+        34.77602,
+        -83.74371
+      ],
+      [
+        34.77791,
+        -83.73821
+      ],
+      [
+        34.78193,
+        -83.74601
+      ],
+      [
+        34.79238,
+        -83.74287
+      ],
+      [
+        34.81038,
+        -83.74434
+      ],
+      [
+        34.81985,
+        -83.73812
+      ]
+    ]
+  },
+  {
+    "id": "wolf-pen-gap",
+    "name": "Wolf Pen Gap Road",
+    "color": "#3baaf5",
+    "scores": {
+      "scenery": 8,
+      "twistiness": 9,
+      "emptiness": 9
+    },
+    "distance": "12 mi",
+    "driveTime": "30 min",
+    "elevationGain": "1,200 ft",
+    "description": "A motorcyclist's dream through Suches valley \u2014 tight blind curves, minimal traffic, and ridge-top solitude.",
+    "coordinates": [
+      [
+        34.68886,
+        -84.02234
+      ],
+      [
+        34.69533,
+        -84.01554
+      ],
+      [
+        34.70492,
+        -84.00779
+      ],
+      [
+        34.71074,
+        -83.99747
+      ],
+      [
+        34.7218,
+        -83.98557
+      ],
+      [
+        34.73376,
+        -83.97652
+      ],
+      [
+        34.74558,
+        -83.97453
+      ],
+      [
+        34.75865,
+        -83.96472
+      ],
+      [
+        34.76163,
+        -83.95438
+      ],
+      [
+        34.76317,
+        -83.9492
+      ],
+      [
+        34.7659,
+        -83.94477
+      ],
+      [
+        34.76496,
+        -83.93957
+      ],
+      [
+        34.76499,
+        -83.93327
+      ],
+      [
+        34.76673,
+        -83.92516
+      ],
+      [
+        34.77186,
+        -83.91423
+      ]
+    ]
+  },
+  {
+    "id": "hogpen-gap",
+    "name": "Hogpen Gap Road",
+    "color": "#f53b6e",
+    "scores": {
+      "scenery": 9,
+      "twistiness": 10,
+      "emptiness": 8
+    },
+    "distance": "8 mi",
+    "driveTime": "20 min",
+    "elevationGain": "1,400 ft",
+    "description": "One of Georgia's gnarliest stretches of pavement \u2014 blind hairpins carved into a steep north-facing ridge above the clouds.",
+    "coordinates": [
+      [
+        34.72795,
+        -83.81382
+      ],
+      [
+        34.72918,
+        -83.84855
+      ],
+      [
+        34.74439,
+        -83.84519
+      ],
+      [
+        34.75378,
+        -83.85204
+      ],
+      [
+        34.76065,
+        -83.8648
+      ],
+      [
+        34.76666,
+        -83.87954
+      ],
+      [
+        34.77708,
+        -83.88016
+      ],
+      [
+        34.79507,
+        -83.87739
+      ]
+    ]
+  }
+]
